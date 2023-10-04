@@ -1,0 +1,33 @@
+{
+    "peoples": {
+      "people": [
+        {
+          "id": "1",
+          "surname": "Иванов",
+          "name": "Иван",
+          "patronymic": "Иванович",
+          "birthdate": "01.01.1990",
+          "birthplace": "Москва",
+          "phone": "8 926 766 48 48"
+        },
+        {
+          "id": "2",
+          "surname": "Петров",
+          "name": "Петр",
+          "patronymic": "Петрович",
+          "birthdate": "21.11.1991",
+          "birthplace": "Мытищи",
+          "phone": "8 916 766 58 18"
+        },
+        {
+          "id": "3",
+          "surname": "Сидоров",
+          "name": "Алексей",
+          "patronymic": "Александрович",
+          "birthdate": "13.06.1989",
+          "birthplace": "Саратов",
+          "phone": "8 923 365 78 02"
+        }
+      ]
+    }
+  }
